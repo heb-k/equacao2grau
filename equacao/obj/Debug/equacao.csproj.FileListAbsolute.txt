@@ -1,0 +1,7 @@
+C:\Users\hebe0\OneDrive\Documentos\Visual Studio 2019\projetos\equacao\equacao\bin\Debug\equacao.exe.config
+C:\Users\hebe0\OneDrive\Documentos\Visual Studio 2019\projetos\equacao\equacao\bin\Debug\equacao.exe
+C:\Users\hebe0\OneDrive\Documentos\Visual Studio 2019\projetos\equacao\equacao\bin\Debug\equacao.pdb
+C:\Users\hebe0\OneDrive\Documentos\Visual Studio 2019\projetos\equacao\equacao\obj\Debug\equacao.csproj.AssemblyReference.cache
+C:\Users\hebe0\OneDrive\Documentos\Visual Studio 2019\projetos\equacao\equacao\obj\Debug\equacao.csproj.CoreCompileInputs.cache
+C:\Users\hebe0\OneDrive\Documentos\Visual Studio 2019\projetos\equacao\equacao\obj\Debug\equacao.exe
+C:\Users\hebe0\OneDrive\Documentos\Visual Studio 2019\projetos\equacao\equacao\obj\Debug\equacao.pdb
